@@ -1,7 +1,7 @@
 package org.acme;
 
-import com.vidal.AllergyService.AllergyService;
-import com.vidal.AllergyService.ArrayOfAllergy;
+import com.whatever.AllergyService.AllergyService;
+import com.whatever.AllergyService.ArrayOfAllergy;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
